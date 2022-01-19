@@ -27,7 +27,6 @@ import java.util.Random;
 
 public class Program {
     public static void main(String[] args) {
-        System.out.println("Hello WOrld!");
 
         try {
             PetriDish petriDish = new PetriDish(40, 2, 7, 500, 60, 20, 50);
